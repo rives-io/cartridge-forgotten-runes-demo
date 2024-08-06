@@ -1,0 +1,13 @@
+{
+    "name": "Forgotten Runes Demo",
+    "summary": "A demo using Forgotten Runes sprites",
+    "description": "Collect the gems, use Z to run, X to cast spells.",
+    "tags": ["2d", "demo"],
+    "authors": [{
+        "name": "RIVES",
+        "link": "https://github.com/rives-io"
+    }],
+    "links": [
+        "https://github.com/rives-io/cartridge-forgotten-runes-demo"
+    ]
+}
